@@ -1,16 +1,41 @@
-## Hi there 👋
+# Alex..
 
-<!--
-**alexlawrence5/alexlawrence5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm someone deeply interested in software, low-level things, and system development.
+I have so many OS projects, im obsessed with it...
+I work around AOSP-based projects, custom OS development, and low-level system internals.  
+Linux is my natural environment, and the terminal feels like home.
 
-Here are some ideas to get you started:
+## 🧠 Interests
+- Cyber Security & Pentesting
+- OS Development (custom kernels & ROM, OS projects)
+- Embedded systems (Raspberry Pi projects, etc.)
+- Low-level programming (Assembly, Nim)
+- I actually use Nim, but I don't use it on my projects for some reasons.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm Working On
+- Raspberry Pi server / NAS setups
+- Emulator & sandbox environments (QEMU, etc.)
+- Security & hacking tools development
+- AI projects (Echo project)
+
+## 💻 Technical Skills
+- Linux (advanced usage)
+- Assembly
+- Python (tool development)
+- Bash scripting
+
+## ⚙️ My Workflow
+- I learn by breaking and rebuilding systems
+- I enjoy understanding how things work under the hood
+- I build minimal but powerful tools
+- My default mindset is: "How does this actually work?"
+- If I don't know how to build it and want to build it fast: I read the documentation.
+
+## 🎯 Goals
+- Build a full custom OS ecosystem
+- Improve in low-level security research
+- Develop more stable and powerful system tools
+
+## 📌 Note
+This profile is constantly evolving as I learn and build new things.

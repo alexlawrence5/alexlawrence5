@@ -20,10 +20,12 @@ Linux is my natural environment, and the terminal feels like home.
 - AI projects (Echo project)
 
 ## 💻 Technical Skills
-- Linux (advanced usage)
+- Linux (advanced usage, Bash)
 - Assembly
 - Python (tool development)
+- Nim
 - Bash scripting
+- Batch scripting
 
 ## ⚙️ My Workflow
 - I learn by breaking and rebuilding systems
@@ -31,6 +33,7 @@ Linux is my natural environment, and the terminal feels like home.
 - I build minimal but powerful tools
 - My default mindset is: "How does this actually work?"
 - If I don't know how to build it and want to build it fast: I read the documentation.
+- I want to keep it simple and basic, not too advanced and complex.
 
 ## 🎯 Goals
 - Build a full custom OS ecosystem

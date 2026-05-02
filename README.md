@@ -33,6 +33,7 @@ Linux is my natural environment, and the terminal feels like home.
 - I build minimal but powerful tools
 - My default mindset is: "How does this actually work?"
 - If I don't know how to build it and want to build it fast: I read the documentation.
+- If you seen me vibe-coding, it is because for fun. I don't use AI for my main projects.
 - I want to keep it simple and basic, not too advanced and complex.
 
 ## 🎯 Goals

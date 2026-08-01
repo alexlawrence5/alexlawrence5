@@ -18,12 +18,15 @@ Linux is my natural environment, and the terminal feels like home.
 - Emulator & sandbox environments (QEMU, etc.)
 - Security & hacking tools development
 - AI projects (Echo project)
+- MicroOS (One of my biggest projects so far, never discontinuing it.)
 
 ## 💻 Technical Skills
 - Linux (advanced usage, Bash)
 - Assembly
 - Python (tool development)
 - Nim
+- JavaScript
+- Lua
 - Bash scripting
 - Batch scripting
 
